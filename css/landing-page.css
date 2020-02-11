@@ -149,8 +149,8 @@ footer.footer {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: #19A9E9;
-  border: solid 1px #19A9E9;
+  background-color: #028DD2;
+  border: solid 1px #028DD2;
   display: inline-block;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -169,8 +169,8 @@ footer.footer {
 }
 
 .social-icons .icon:hover {
-  color: #19A9E9;
+  color: #028DD2;
   background-color: #fff;
-  border: solid 1px #19A9E9;
+  border: solid 1px #028DD2;
 }
 /*# sourceMappingURL=landing-page.css.map */
